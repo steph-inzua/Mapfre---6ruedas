@@ -1,0 +1,72 @@
+blanco = white
+negro = black
+rojo = #da1a00
+amarillo = #ffee00
+
+
+
+
+// mixin para fuentes
+ruta-fuente( archivo )
+  return "../fonts/" + archivo
+
+fuente( nombre, archivo, peso = normal, estilo = normal )
+	@font-face
+		font-family nombre
+		src url( ruta-fuente( archivo + ".eot" ))
+		src url( ruta-fuente( archivo + ".eot?#iefix" )) format( "embedded-opentype" ),
+			url( ruta-fuente( archivo + ".woff" )) format("woff" ),
+			url( ruta-fuente( archivo + ".ttf" )) format("truetype" ),
+			url( ruta-fuente( archivo + ".svg#" + nombre )) format( "svg" )
+		font-weight peso
+		font-style estilo
+
+	@media screen and ( -webkit-min-device-pixel-ratio: 0 )
+		@font-face
+			font-family nombre
+			src url(font-url(archivo + ".svg#"+ family)) format("svg")
+
+
+// media Queries
+ancho-movil = 640px
+ancho-escritorio = 768px
+
+en_pantalla = "only screen"
+minimo = "min-width: "
+maximo = "max-width: "
+
+
+media_queries = {
+  movil  : en_pantalla + " and (" + maximo +  ancho-movil + ")",
+  tactil  : en_pantalla + " and (" + minimo +  ancho-movil + ")",
+  escritorio : en_pantalla + " and (" + minimo +  ancho-escritorio + ")",
+}
+
+media_queries2 = {
+  movil  : en_pantalla + " and (" + maximo +  ancho-movil + ")",
+  tactil  : en_pantalla + " and (" + maximo +  ancho-movil + ")",
+  escritorio : en_pantalla + " and (" + maximo +  ancho-escritorio + ")",
+}
+
+desde( medidas )
+	condiciones = ()
+	for medida in medidas
+		push( condiciones, media_queries[ medida ])
+	conditions = join( ", ", condiciones )
+	@media condiciones
+		{block}
+
+hasta( medidas )
+	condiciones = ()
+	for medida in medidas
+		push( condiciones, media_queries2[ medida ])
+	conditions = join( ", ", condiciones )
+	@media condiciones
+		{block}
+
+/* pendiente */
+sombra( angulo, distancia, extension, color )
+	dx = distancia * cos( angulo )
+	dy = distancia * sin( angulo )
+	box-shadow (round(dx))px (round(dy))px extension color
+

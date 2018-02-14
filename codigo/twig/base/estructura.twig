@@ -1,0 +1,50 @@
+{% extends 'base.twig' %}
+
+{% block pagina %}
+	<section class="pagina">
+		<header id="encabezado">
+			{% block encabezado %}
+				<div class="contenedor">
+					<a href="index.html" class="logos">
+						<h1 class="titulo">
+							<img src="img/logo-mapfre.png" alt="" class="logo">
+						</h1>
+						<div class="lema">
+							<span>Seguro vehicular:</span> Pack 6 Ruedas
+						</div>
+					</a>
+					
+					<div class="moto-y-carro"><img src="img/moto-y-carro.png"></div>
+				</div>
+			{% endblock %}
+		</header>
+
+		<article id="cuerpo">
+			{% block cuerpo %}
+
+			{% endblock %}
+		</article>
+
+		<footer id="pie">
+			{% block pie %}
+
+				<div class="contenedor">
+					<div class="copy">MAPFRE © 2016 Todos los derechos reservados</div>
+					<div class="atencion">
+						<p>#ConfianzaMapfre</p>
+						<div class="enlaces"> <a href="https://www.mapfre.com.pe/seguros-pe/">Ir a mapfre.com.pe</a> | <a class="enlace terminos" href="#tyc">Ver términos y condiciones</a></div>
+					</div>
+				</div>
+				<div id="tyc" style="display: block;">
+					<p>Algunos de los beneficios expuestos aplican sólo para el producto *Seguro Sepelio MAPFRE* y pueden variar para las modalidades de seguro; también están sujetos a la ubicación geográfica del asegurado. El servicio funerario y la ceremonia de inhumación son beneficios para el titular. Converse con su asesor asignado luego del llenado de este formulario sobre las ventajas y coberturas del producto de su preferencia.</p>
+				</div>
+
+				
+			{% endblock %}
+		</footer>
+		 </div>
+ 
+ 
+	</section>
+
+{% endblock %}

@@ -1,0 +1,802 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"LI",
+				"line-height"
+			],
+			[
+				"conten",
+				"contenedor"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"fotn",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"MI",
+				"min-width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"FONT",
+				"font-weight"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"titul",
+				"titulo-3"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"img",
+				"imagen"
+			],
+			[
+				"tx",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"title",
+				"title3"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"moq",
+				"MOQUEGUA"
+			],
+			[
+				"LALIB",
+				"LALIBERTAD-44"
+			],
+			[
+				"PIURA-73-FASC",
+				"PIURA-73-FASCINANTE_SOLYPLAYA_PLAYASDELNORTE-001"
+			],
+			[
+				"HUANUCO-62-ACTUAL_CU",
+				"HUANUCO-62-ACTUAL_CULTURAURBANA_CONVENTOSYCATEDRALES-001"
+			],
+			[
+				"LIMA-1-ACTUAL_CULTURA",
+				"LIMA-1-ACTUAL_CULTURAURBANA_PLAZASYMONUMENTOSHISTORICOS-002"
+			],
+			[
+				"LIMA",
+				"LIMA-1"
+			],
+			[
+				"HUANUCO-62-ACTUAL_CULTURAURBANA_PLAZASYMONUMENTOSHISTORICOS",
+				"HUANUCO-62-ACTUAL_CULTURAURBANA_PLAZASYMONUMENTOSHISTORICOS-002"
+			],
+			[
+				"ARE",
+				"AREQUIPA"
+			],
+			[
+				"CAJAMARCA",
+				"CAJAMARCA-76"
+			],
+			[
+				"ica",
+				"ICA"
+			],
+			[
+				"MADRE",
+				"MADREDEDIOS"
+			],
+			[
+				"MILENARIO_CIUDADESYSITIOSSAGRADOS",
+				"AMAZONAS-41-MILENARIO_CIUDADESYSITIOSSAGRADOS-001"
+			],
+			[
+				"MILE",
+				"MILENARIO_CIUDADESYSITIOSSAGRADOS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "codigo/stylus/general.styl",
+			"settings":
+			{
+				"buffer_size": 7083,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Atomikal/Drive-atk/Software/drive.git/codigo/stylus/disco.styl",
+			"settings":
+			{
+				"buffer_size": 643,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "w",
+		"selected_items":
+		[
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"syn s",
+				"Set Syntax: Stylus"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Atomikal/Mapfre/6ruedas",
+		"/D/Atomikal/Mapfre/6ruedas/codigo",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/stylus",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/twig"
+	],
+	"file_history":
+	[
+		"/D/Atomikal/Drive-atk/Software/drive.git/valores.json",
+		"/D/Atomikal/Drive-atk/Software/drive.git/codigo/stylus/base/utiles.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/index.styl",
+		"/D/Atomikal/Drive-atk/Software/drive.git/codigo/twig/base/base.twig",
+		"/D/Atomikal/Drive-atk/Software/drive.git/codigo/stylus/disco.styl",
+		"/D/Atomikal/Drive-atk/Software/drive.git/codigo/stylus/general.styl",
+		"/D/Atomikal/Drive-atk/Software/drive.git/codigo/twig/disco.twig",
+		"/D/Atomikal/Drive-atk/Software/drive.git/codigo/twig/index.twig",
+		"/D/Atomikal/Drive-atk/Software/drive.git/codigo/stylus/index.styl",
+		"/D/Atomikal/Drive-atk/Software/drive.git/package.json",
+		"/D/Atomikal/Drive-atk/Software/drive.git/gulpfile.js",
+		"/D/Atomikal/Drive-atk/Software/drive.git/gulp/servir.js",
+		"/D/Atomikal/Drive-atk/Software/drive.git/codigo/twig/base/estructura.twig",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/stylus/base/utiles.styl",
+		"/D/Atomikal/Mapfre/6ruedas/valores.json",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/twig/base/estructura.twig",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/twig/base/base.twig",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/stylus/index.styl",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/stylus/animations.styl",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/stylus/general.styl",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/ecma/index.js",
+		"/D/Atomikal/Mapfre/6ruedas/codigo/twig/index2.twig",
+		"/D/Atomikal/Sedal-serendipity/Software/sedal-seren.git/gulpfile.js",
+		"/D/Atomikal/Sedal-serendipity/Software/sedal-seren.git/codigo/ecma/general.js",
+		"/D/Atomikal/Sedal-serendipity/Software/sedal-seren.git/codigo/stylus/base/utiles.styl",
+		"/D/Atomikal/Sedal-serendipity/Software/sedal-seren.git/valores.json",
+		"/D/Atomikal/Sedal-serendipity/Software/sedal-seren.git/codigo/stylus/general.styl",
+		"/D/Atomikal/Sedal-serendipity/Software/sedal-seren.git/codigo/stylus/interior.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/.gitignore",
+		"/D/Atomikal/Dorina/Software/dorina.git/gulpfile.js",
+		"/D/Atomikal/Sedal-serendipity/Software/sedal-seren.git/package.json",
+		"/D/Atomikal/Wong/Software/wong.git/gulpfile.js",
+		"/D/Atomikal/Wong/Software/wong.git/package.json",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/ultima-campana.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/base/utiles.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/general.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/dorina-clasica.twig",
+		"/D/Atomikal/Wong/Software/wong.git/compilado/css/index.css",
+		"/D/Atomikal/Wong/Software/wong.git/compilado/css/acciones-det.css",
+		"/D/Atomikal/Wong/Software/wong.git/compilado/js/general.js",
+		"/D/Atomikal/Metro/Software/CMS/app/web.php",
+		"/D/Atomikal/Metro/Software/CMS/plantillas/interna.html",
+		"/D/Atomikal/Metro/Software/CMS/plantillas/que-hacemos.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/secciones/emergente.twig",
+		"/D/Atomikal/ytuqueplanes/festividad-detalle.html",
+		"/D/Atomikal/ytuqueplanes/Lima Turismo y Viajes - Y tú que planes_.html",
+		"/D/Atomikal/Metro/Software/CMS/vendor/composer/autoload_namespaces.php",
+		"/D/Atomikal/Metro/Software/CMS/vendor/composer/autoload_files.php",
+		"/D/Atomikal/Metro/Software/CMS/vendor/autoload.php",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/secciones/formulario.twig",
+		"/D/Atomikal/Wong/Software/wong.git/compilado/js/index.js",
+		"/D/Atomikal/Wong/Software/wong.git/compilado/js/medio-ambiente.js",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/base/base.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/producto-det.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/nosotros.styl",
+		"/D/Atomikal/Quinones/compromiso.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/cuidado.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/base/estructura.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/quienes-somos.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/ultima-campana.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/tips-subcat.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/tips-det.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/valores.json",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/dorina-light.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/dorina-sabor-mantequilla.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/mantequilla-vs-untable.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/index.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/nosotros.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/vitaminas-y-omega.twig",
+		"/D/Atomikal/Quinones/index.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/base/seguimiento.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/tips.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/alimentacion-saludable.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/ninos-sanos.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/ideas-saludables-desayuno.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/ideas-saludables-lonchera.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/ideas-saludables-almuerzo.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/ideas-saludables-meriendas.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/ideas-saludables-cena.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/ideas-sandwiches-ninos.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/consejos-para-loncheras.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/rutas.json",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/nuestras-creencias.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/slick.styl",
+		"/D/Atomikal/Wong/Software/wong.git/valores.json",
+		"/D/Atomikal/Dorina/Software/dorina.git/package.json",
+		"/D/Atomikal/Mapfre/viajes/ftpsync.settings",
+		"/D/Atomikal/Dorina/Software/dorina.git/ftpsync.settings",
+		"/D/Atomikal/Mapfre/viajes/css/general.css",
+		"/D/Atomikal/Mapfre/viajes/css/styles.css",
+		"/D/Atomikal/Mapfre/viajes/datos.html",
+		"/D/Atomikal/Mapfre/viajes/formas-pago2.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/tyrannosandwich.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/productos.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/artes-y-manualidades.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/recetas.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/sandwich-de-atun.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/pita-con-hummus-jamon.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/sandwich-de-pollo-durazno.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/enrollado-de-atun.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/sandwich-arcoiris.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/sandwich-de-pollo-queso-jamon.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/salud.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/actividades.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/promociones.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/consejos-practicos-para-parrilla.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/noche-de-peliculas.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/less/base/utiles.less",
+		"/D/Atomikal/Quinones/heroismo.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/terminos-condiciones.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/twig/politica-de-privacidad.twig",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/tip-det-info.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/stylus/politica-de-privacidad.styl",
+		"/D/Atomikal/Dorina/Software/dorina.git/codigo/ecma/index.js",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/dorina-sabor-mantequilla.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/productos/dorina-sabor-mantequilla.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/actividades/consejos-practicos-para-parrilla.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/actividades/noche-de-peliculas.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/actividades.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/recetas.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/recetas/sandwich-de-pollo-durazno.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/recetas/tyrannosandwich.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/recetas/sandwich-de-pollo-queso-jamon.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/recetas/enrollado-de-atun.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/recetas/pita-con-hummus-jamon.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/recetas/sandwich-arcoiris.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/recetas/sandwich-de-atun.html",
+		"/D/Atomikal/Dorina/Software/dorina.git/compilado/salud/ideas-saludables-desayuno.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enviar",
+			"flex",
+			"border",
+			"helver",
+			"encabezado",
+			"pagina",
+			".campo",
+			"line-title-rosa",
+			"btn1",
+			"col1",
+			"slider-txt",
+			"contenedor",
+			"\t\n",
+			"box-sizing",
+			"cnt",
+			".CONTENIDO",
+			"left 0right 0",
+			"left 0\nright 0",
+			"    left 0\n    right 0",
+			"texto",
+			"40% menos grasas saturadas que la mantequilla",
+			".image-1",
+			"cmp",
+			"background azul",
+			".telef",
+			".fecha",
+			"fecha",
+			"#d5d6e0 1px solid",
+			"border-top",
+			"titulo_1",
+			"remodal",
+			"titulo_1",
+			".resumen",
+			"titulo",
+			".texto",
+			"almuerzo",
+			"span",
+			"alimentacion",
+			"if",
+			"border-ra",
+			"clasicos",
+			"&:hover\n\t\t\tbackground azul",
+			".enlace",
+			":",
+			".remodal-wrapper",
+			"43,4",
+			"Suscríbete ",
+			"remodal",
+			"no-banner",
+			" 40%menos grasas*",
+			" 40% menos grasas*",
+			"menos",
+			"40%",
+			"href=\"../",
+			"href=\"",
+			"• ",
+			"1.",
+			"• ",
+			"•",
+			"• ",
+			"lista1",
+			"lista",
+			".cnt",
+			"@borde",
+			"rutas",
+			"rutas.origen",
+			"size",
+			"1",
+			"1.5",
+			"1",
+			"back",
+			"img",
+			"quinua",
+			"figcaption",
+			"enlaces",
+			"Proin gravida",
+			"Proin gravidaç",
+			"Proin gravida",
+			"enlace",
+			"btn",
+			".product",
+			"informa",
+			"ico",
+			"encabezad",
+			"titulo-3",
+			"marquesi",
+			"marquesin",
+			"estruc",
+			"vendoir",
+			"titulo",
+			"titulos",
+			"lista",
+			"titul",
+			"titl",
+			"nosotros",
+			"inicial",
+			"contenedor inicial",
+			"ver ",
+			"item",
+			"activ",
+			"max-wid",
+			"headerin",
+			"img",
+			"185px",
+			"    185px",
+			"cnt",
+			"titulo-2",
+			"titulo-1",
+			"titulo-1 ",
+			"=\"#\">",
+			"titulo-1",
+			"btn",
+			"cnt",
+			"navruta",
+			"titulo-1",
+			"marg-int",
+			".padd",
+			"padd",
+			"detai",
+			"detail p",
+			"navruta",
+			"plomo",
+			"a0a0a0",
+			".product",
+			"titulo-3",
+			"display flex",
+			".imagen",
+			"titulo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"BIRDWATCHERS",
+			"birdwatchers",
+			"birdwatching",
+			"'",
+			"https://m01-apps.peru.travel/static/media/mp3/",
+			"https://m01-apps.peru.travel/static/media/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "codigo/stylus/general.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4492,
+								4492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4031.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Atomikal/Drive-atk/Software/drive.git/codigo/stylus/disco.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-6ruedas.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

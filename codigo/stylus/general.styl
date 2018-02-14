@@ -1,0 +1,408 @@
+@require "base/utiles"
+@require "nib"
+@require "animations"
+
+
+global-reset()
+reset-html5()
+
+html *
+
+	//background-color rgba( 0, 0, 0, 0.1 )
+	//outline 1px solid rgba( 255, 255, 0, 0.1 )
+
+	&:hover
+		//outline 1px solid rgba( 255, 0, 255, 0.5 )
+
+fuente( "NotoSans", "NotoSans-Regular" )
+fuente( "NotoSans", "NotoSans-Bold", bold )
+
+fuente( "Titillium", "Titillium-Semibold" )
+fuente( "Titillium", "Titillium-Bold", bold )
+
+fuente( "Helvetica", "Helvetica-Regular" )
+fuente( "Helvetica", "Helvetica-Bold", bold )
+
+fuente( "MyriadPro", "MyriadPro-Bold" )
+
+
+body
+	min-height 100vh
+	margin 0
+	padding 0
+	font-family "NotoSans"
+	color #3a3a3a
+
+	p
+		font-size 1.05rem
+		line-height normal
+		+desde( escritorio )
+			font-size (19 / 16)rem
+
+
+img
+	max-width: 100%;
+
+.contenedor
+	max-width 1200px
+	margin 0 auto
+	display block
+	box-sizing border-box
+	
+		
+.pagina
+	background url('../img/bg-carro-y-moto.jpg') no-repeat
+	background-size cover
+	background-position bottom center
+	min-height 100vh
+	display flex
+	flex-direction column
+	align-items stretch
+	+hasta( escritorio )
+		background url('../img/bg-carro-y-moto-resp.jpg') no-repeat
+		background-size contain
+		display inherit
+		min-height auto
+		
+//encabezados
+#encabezado
+	position relative
+	z-index 1
+	background rojo
+	padding 1px 10px
+	+hasta( escritorio )
+		padding 12px 10px
+	.contenedor
+		display flex
+		justify-content space-between
+		align-items center
+		a
+			text-decoration none
+			color blanco
+		
+	.titulo
+		position relative
+		z-index 999
+		margin 0
+		padding 5px 0
+		display inline-block
+		vertical-align middle
+		
+	.lema
+		display inline-block
+		vertical-align middle
+		border-left blanco 1px solid
+		padding 10px 0 10px 65px
+		margin-left 54px
+		font-size 13px
+		+hasta( escritorio )
+			display none
+		span
+			font-weight bold
+		
+	.logo
+		display block
+		max-width 135px
+		+desde( escritorio )
+			max-width none
+	.moto-y-carro
+		+hasta( escritorio )
+			img
+				width 80%
+//cuerpo
+#cuerpo
+	flex 1 0 auto
+	display flex
+	align-items stretch
+	.contenedor
+		display flex
+		align-items center
+		align-content center
+		+hasta( escritorio )
+			display block
+
+//botones
+.btn1
+	background red1
+	color white
+	text-decoration none
+	border-radius 20px
+	padding 5px 35px 8px 20px
+	letter-spacing 0.1rem
+	position relative
+	font-size (17.42 / 16)rem
+	font-weight bold
+	transition all .4s
+	&:after
+		content ''
+		absolute top -4px right -10px
+		display block
+		width 40px
+		height 40px
+		background url('../img/icons/btn-arrow.png') no-repeat
+	&:hover
+		background red4
+		padding 5px 45px 8px 30px
+
+.titulo-h
+	font-family 'Titillium'
+	font-weight bold
+	color blanco
+	flex 2 1 auto
+	align-self flex-start
+	z-index 1
+	padding 2rem
+	min-height auto
+    
+	h2
+		font-size (59.47 / 16)rem
+		padding-bottom 4px
+		border-bottom 5px solid blanco
+		+hasta( escritorio )
+			font-size (36.01 / 16)rem
+			border-bottom 3px solid blanco
+			display inline-block
+	h3
+		margin-top 10px
+		font-size (24 / 16)rem
+		+hasta( escritorio )
+			font-size (14.53 / 16)rem
+
+.beneficio
+	margin 60px 40px 0 90px
+	+hasta( escritorio )
+		margin 160px 40px 0 40px
+	h4
+		font-weight normal
+		font-size (24 / 16)rem
+		color blanco
+		border-bottom 1px solid blanco
+		display inline-block
+		margin-left 50px
+		+hasta( escritorio )
+			font-size 1rem
+			margin-left 0
+	ul
+		li
+			font-size (15 / 16)rem
+			color blanco
+			margin 20px 0
+			padding 3px 0 0 50px
+			line-height 24px
+			+hasta( escritorio )
+				margin 10px 0
+				line-height 20px
+				min-height 40px
+			.resalt
+				font-weight bold
+				font-size (19 / 16)rem
+				display block
+				+hasta( escritorio )
+					font-size 14px
+					display inline-block
+			.precio
+				display block
+				text-align right
+				font-size 12px
+				+hasta( escritorio )
+					display inline-block
+				.antes
+					text-decoration line-through
+					
+		.ic1
+			background url('../img/ico_1.png') no-repeat
+		.ic2
+			background url('../img/ico_2.png') no-repeat
+		.ic3
+			background url('../img/ico_3.png') no-repeat
+		.ic1
+		.ic2
+		.ic3
+			+hasta( escritorio )
+				background-size 12%
+// RESP
+.ocult
+	display none
+	+hasta( escritorio )
+		display inherit
+.continu
+	display inherit
+	+hasta( escritorio )
+		display none
+.title-resp
+	display none
+	background linear-gradient( top, #fcc201 0%, #fefe00 100%)
+	color rojo
+	text-align center
+	font-size (24 / 16)rem
+	font-family 'MyriadPro'
+	font-weight bold
+	padding 17px 0
+	letter-spacing -1px
+	+hasta( escritorio )
+		display inherit
+	a
+		color rojo
+		text-decoration none
+	
+
+.formulario
+	font-family 'Helvetica'
+	background rojo
+	color blanco
+	max-width 327px
+	box-sizing border-box
+	padding 20px 35px
+	border-radius 6px
+	margin-left 20px
+	+hasta( escritorio )
+		margin 0
+		max-width 100%
+		border-radius 0
+	p
+		font-size 14px
+	h3
+		font-size (24 / 16)rem
+		margin-bottom 10px
+		letter-spacing -0.3px
+		font-family 'MyriadPro'
+		
+	.head-f
+		border-bottom #e65f4d 1px solid
+		padding-bottom 13px
+		p
+			font-size 1rem
+			line-height normal
+	.form
+		margin-top 20px
+		select
+			display block
+			
+		.camp
+			box-sizing border-box
+			padding 6px
+			border none
+			border-radius 3px
+			margin 7px 0
+		.camp1
+			box-sizing border-box
+			margin 0.2rem
+			width 98%
+			
+		.enviar
+			border 0
+			cursor pointer
+			display inline-block
+			background linear-gradient( top, #fcc201 0%, #fefe00 100%)
+			color rojo
+			padding 8px 30px
+			border-radius 4px
+			font-family 'MyriadPro'
+			font-weight bold
+			margin 20px auto 0 auto
+			font-size (19.37 / 16)rem
+			letter-spacing -1px
+			&:hover
+				background amarillo2
+		.two
+			display flex
+			flex-direction row
+			align-content stretch
+			align-items center
+			select
+				width 100%	
+				margin 0.2rem
+			.numb
+				width 100px
+		p
+			margin 12px 0
+	.acepto
+		font-size (12.27 / 16)rem
+		font-family 'NotoSans'
+		letter-spacing -0.5px
+		
+		a
+			color blanco
+		span
+			font-weight bold
+			text-decoration underline
+		.control
+			float left
+// pie
+#pie
+	background-color rojo
+	padding 0.6rem 0 1rem
+	+hasta( escritorio )
+		display flex
+		flex-direction column-reverse
+		border-top 10px solid negro
+	.contenedor
+		text-align left
+		display flex
+		justify-content space-between
+		padding 0
+		
+		+hasta( escritorio )
+			display block
+			text-align center
+		p
+			color white
+			font-size (13.76 / 16)rem
+		
+		.copy
+			width 100%
+			color negro
+			font-size: 0.8rem;
+			+desde( escritorio )
+				width auto
+				
+				
+		.atencion
+			
+			text-align right
+			color blanco
+			+hasta( escritorio )
+				text-align center
+				margin 10px 0 20px 0
+			p
+				display block
+				font-size 11px
+				margin 0 0 4px 0
+		.enlaces
+			float none
+			font-size 10px
+			
+			+desde( escritorio )
+				display inherit
+				float right
+				
+			a
+				text-decoration none
+				opacity 1
+				font-size 10px
+				
+				color blanco
+				transition all .4s
+				&:hover
+					opacity 0.5
+		.social-resp
+			display inherit
+			text-align center
+			margin-bottom 5px
+			+desde( escritorio )
+				display none
+			
+			a
+				text-decoration none
+#tyc
+	color blanco
+	font-size 12px
+	margin 1rem auto
+	max-width 1230px
+	+hasta( escritorio )
+		width 90%
+		margin 0 auto 20px auto
+	p
+		font-size 12px
+	a
+		color blanco
